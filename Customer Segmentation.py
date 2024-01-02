@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 22 21:54:41 2021
-
 @author: Singh
 """
 # K-Means Clustering
